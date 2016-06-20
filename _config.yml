@@ -14,3 +14,5 @@ url: "http://oscarbarrett.github.io" # the base hostname & protocol for your sit
 
 # Build settings
 markdown: kramdown
+
+permalink: pretty
