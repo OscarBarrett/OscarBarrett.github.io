@@ -16,3 +16,6 @@ url: "http://oscarbarrett.github.io" # the base hostname & protocol for your sit
 markdown: kramdown
 
 permalink: pretty
+
+gems:
+  - jekyll-sitemap
